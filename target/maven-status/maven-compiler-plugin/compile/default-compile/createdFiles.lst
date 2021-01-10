@@ -1,0 +1,5 @@
+com/project/orange/repository/PessoaRepository.class
+com/project/orange/entity/Pessoa.class
+com/project/orange/controller/PessoaController.class
+com/project/orange/SpringBootOrangeApplication.class
+com/project/orange/service/PessoaService.class
